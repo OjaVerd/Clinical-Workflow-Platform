@@ -1,0 +1,15 @@
+# Local healthcare datasets
+/data/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# React / Node
+node_modules/
+dist/
